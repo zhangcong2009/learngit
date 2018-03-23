@@ -7,4 +7,4 @@ git add readme.txt
 merge master
 old clone
 new clone
-test push2
+test push all
