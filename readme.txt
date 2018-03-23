@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 git add readme.txt 
 merge master
 old clone
+new clone
